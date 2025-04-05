@@ -20,7 +20,7 @@ public class HomeController {
 
     @Autowired
     private DiscussPostService discussPostService;
-    //asaasa
+
     @Autowired
     private UserService userService;
 
